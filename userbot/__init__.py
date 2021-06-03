@@ -153,10 +153,10 @@ CMD_HANDLER = os.environ.get("CMD_HANDLER", ".")
 PM_PIC = os.environ.get(
     "https://telegra.ph/file/e659afa39091f773c67b2.jpg", None)
 
-# untuk perintah .koalalive
-KAMPANG_TEKS_KUSTOM = os.environ.get(
-    "KAMPANG_TEKS_KUSTOM",
-    "Join Gaes @caritemanhidop")
+# untuk perintah .azel
+DIABLO_TEKS_KUSTOM = os.environ.get(
+    "DIABLO_TEKS_KUSTOM",
+    "Join Gaes @bibitunggulnexus")
 
 # Default .alive name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -399,7 +399,7 @@ with bot:
         @tgbot.on(events.NewMessage(pattern="/start"))
         async def handler(event):
             if event.message.from_id != uid:
-                await event.reply("I'm [BOT KAMPANG](https://github.com/ManusiaRakitan/Kampang-Bot) modules helper...\nplease make your own bot, don't use mine 😋")
+                await event.reply("I'm [BOT KAMPANG](https://github.com/azelfirdaus/azel-userbot) modules helper...\nplease make your own bot, don't use mine 😋")
             else:
                 await event.reply(f"`Hey there {ALIVE_NAME}\n\nI work for you :)`")
 
@@ -433,7 +433,7 @@ with bot:
                         [
                             custom.Button.url(
                                 "GitHub Repo",
-                                "https://github.com/ManusiaRakitan/Kampang-Bot"),
+                                "https://github.com/azelfirdaus/azel-userbot"),
                             custom.Button.url(
                                 "Support",
                                 "https://t.me/mixiologist")],
