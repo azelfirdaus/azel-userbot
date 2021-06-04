@@ -27,8 +27,8 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
     "┏▼━━━━━━━━━━━━━━━━━━━▼┓\n"
-    "    APA LU KAMPANG?\n"
-    f"  MAU GANGGUIN BAGINDA `{DEFAULTUSER}` ?\n"
+    "    BENTAR PANGGILIN\n"
+    f"  LORD `{DEFAULTUSER}` ?\n"
     "┗▲━━━━━━━━━━━━━━━━━━━▲┛\n\n"
 
     f"Gua Babu Nya `{DEFAULTUSER}`\n"
@@ -44,10 +44,10 @@ DEF_UNAPPROVED_MSG = (
     "┗▲━━━━━━━━━━━━━━━━━━━▲┛\n\n"
 
     "╾─────────────────────╼\n"
-    "   😡😡KONTOLLLLL 😡😡\n"
+    "   ASTAGHFIRULLAH \n"
     "─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇\n"
-    f"- 🐨Babu Nya `{DEFAULTUSER}`\n"
-    "- DIKENTOT OLEH 🐨Kampang-BOT🐨")
+    f"- Babu Nya `{DEFAULTUSER}`\n"
+    "- DIKENTOT OLEH 🥵𝘼𝙕𝙀𝙇-𝙐𝙎𝙀𝙍𝘽𝙊𝙏")
 # =================================================================
 
 
