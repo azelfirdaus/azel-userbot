@@ -459,26 +459,26 @@ async def _(event):
             await event.edit(animation_chars[i % 24])
 
 
-@register(outgoing=True, pattern="^.lord(?: |$)(.*)")
+@register(outgoing=True, pattern="^.yohi(?: |$)(.*)")
 async def _(event):
     if not event.text[0].isalpha() and event.text[0] not in (
             "/", "#", "@", "!"):
-        await event.edit("Alvin Pedofil({})")
+        await event.edit("蒼井 優ʸᵒʰⁱ({})")
         await asyncio.sleep(0.5)
-        await event.edit("Jamal Doyan Ngewe(_)(_)=D")
+        await event.edit("司令官Jek◡̈`ʸᵒʰⁱ")
         await asyncio.sleep(0.5)
-        await event.edit("Ibal Gay💩")
+        await event.edit("𝐿𝑂𝑅𝐷•ミラクル'ʸᵒʰⁱ")
         await asyncio.sleep(0.5)
-        await event.edit("Rizz Cabul👉👌 ")
+        await event.edit("𝙱𝚊𝚌𝚊𝚗𝚐`ʸᵒʰⁱ ˣ ʸˢʰᵒᵉˢ⸸")
         await asyncio.sleep(0.5)
-        await event.edit("Roif Stres🤪")
+        await event.edit("杉野野Hansip`ʸᵒʰⁱ")
         await asyncio.sleep(0.5)
-        await event.edit("Fiersa Gigolo💦")
+        await event.edit("輪姦Leeman𓂀`ʸᵒʰⁱ")
         await asyncio.sleep(0.5)
-        await event.edit("Koala cakep no debat🐨")
+        await event.edit("王様Ōsama`ʸᵒʰⁱ")
         await asyncio.sleep(0.5)
-        await event.edit("KALIAN SEMUA KONTOLL... 🔥")
-
+        await event.edit("FOUNDERS & EXECUTIF YOHI🔥")
+        await event.edit("MASIH YAKIN MO LAWAN ?")
 
 @bot.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
 async def _(event):
