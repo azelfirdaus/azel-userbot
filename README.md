@@ -17,7 +17,7 @@
 
 # Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 
-<h2 align="center"><b>BOT: <a href="https://telegram.dog/mixiologist">KAMPANG ░ 🐨</a></b></h2>
+<h2 align="center"><b>BOT: <a href="https://telegram.dog/mixiologist">YOHI NEVER DIE </a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/ManusiaRakitan/Kampang-Bot"><img src="https://media0.giphy.com/media/Hs0cX9Z3RR77c0MMA7/giphy.gif" alt="BOT-KAMPANG" width=400px></a>
