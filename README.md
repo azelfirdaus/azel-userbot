@@ -24,8 +24,8 @@
    <br>
    <br>
 </p>
-<h1>BOT-KAMPANG</h1>
-<b>BOT NYA TOXIC HATI - HATI!</b>
+<h1>BOT-YOHI</h1>
+<b>BOT NYA YOHI JAN SEMBARANG PAKE</b>
 <br>
 <br>
 
@@ -37,7 +37,7 @@
 - [Generate on REPL Click](https://repl.it/@ManusiaRakitan/stringsession#README.md)
 ### Read more
 <details>
-  <summary><b>KLIK DISINI UNTUK TOMLOL DEPLOY ASU</b></summary>
+  <summary><b>DEPLOY PENCET PALA BAPA LO</b></summary>
 
 ## CARA DEPLOY? JANGAN MALAS BACA TOLOL 😈
 
