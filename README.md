@@ -15,7 +15,7 @@
 <h3 align="center">A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.</h3>
 <p align="center">&nbsp;</p>
 
-# Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
+# YOHI NEVER DIE [@yohineverdie](https://github.com/azelfirdaus/Bot-yohi)
 
 <h2 align="center"><b>BOT: <a href="https://telegram.dog/mixiologist">YOHI NEVER DIE </a></b></h2>
 <br>
